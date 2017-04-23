@@ -1,2 +1,3 @@
 test
 テスト
+Shift-JISだと多バイト文字がGitHubで文字化けする
